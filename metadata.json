@@ -1,0 +1,6 @@
+{
+  "name": "Sheru Bhai Runner",
+  "description": "3-lane Subway Surfers style endless runner game starring Sheru Bhai. Dodge express trains, jump barriers, slide under signals, and collect coins!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
